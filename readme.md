@@ -1,5 +1,7 @@
 Node Simple XMPP
 ================
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/simple-xmpp/node-simple-xmpp.svg)](https://greenkeeper.io/)
 Simple High Level NodeJS XMPP Library
 
 Install
